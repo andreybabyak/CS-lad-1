@@ -1,0 +1,7 @@
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-1\CS-1-2\CS-1-2\bin\Debug\CS-1-2.exe.config
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-1\CS-1-2\CS-1-2\bin\Debug\CS-1-2.exe
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-1\CS-1-2\CS-1-2\bin\Debug\CS-1-2.pdb
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-1\CS-1-2\CS-1-2\obj\Debug\CS-1-2.csprojAssemblyReference.cache
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-1\CS-1-2\CS-1-2\obj\Debug\CS-1-2.csproj.CoreCompileInputs.cache
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-1\CS-1-2\CS-1-2\obj\Debug\CS-1-2.exe
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-1\CS-1-2\CS-1-2\obj\Debug\CS-1-2.pdb
