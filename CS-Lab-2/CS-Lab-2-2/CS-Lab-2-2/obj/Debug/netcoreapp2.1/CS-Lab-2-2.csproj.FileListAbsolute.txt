@@ -1,0 +1,11 @@
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-2\CS-Lab-2-2\CS-Lab-2-2\bin\Debug\netcoreapp2.1\CS-Lab-2-2.deps.json
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-2\CS-Lab-2-2\CS-Lab-2-2\bin\Debug\netcoreapp2.1\CS-Lab-2-2.runtimeconfig.json
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-2\CS-Lab-2-2\CS-Lab-2-2\bin\Debug\netcoreapp2.1\CS-Lab-2-2.runtimeconfig.dev.json
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-2\CS-Lab-2-2\CS-Lab-2-2\bin\Debug\netcoreapp2.1\CS-Lab-2-2.dll
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-2\CS-Lab-2-2\CS-Lab-2-2\bin\Debug\netcoreapp2.1\CS-Lab-2-2.pdb
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-2\CS-Lab-2-2\CS-Lab-2-2\obj\Debug\netcoreapp2.1\CS-Lab-2-2.csprojAssemblyReference.cache
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-2\CS-Lab-2-2\CS-Lab-2-2\obj\Debug\netcoreapp2.1\CS-Lab-2-2.csproj.CoreCompileInputs.cache
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-2\CS-Lab-2-2\CS-Lab-2-2\obj\Debug\netcoreapp2.1\CS-Lab-2-2.AssemblyInfoInputs.cache
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-2\CS-Lab-2-2\CS-Lab-2-2\obj\Debug\netcoreapp2.1\CS-Lab-2-2.AssemblyInfo.cs
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-2\CS-Lab-2-2\CS-Lab-2-2\obj\Debug\netcoreapp2.1\CS-Lab-2-2.dll
+C:\__study\(3-2)Комп'ютерні системи\CS-Lab-2\CS-Lab-2-2\CS-Lab-2-2\obj\Debug\netcoreapp2.1\CS-Lab-2-2.pdb
